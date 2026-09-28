@@ -1,0 +1,11 @@
+.venv/
+.mongodb/
+__pycache__/
+*.py[cod]
+*.db
+*.db-*
+*.log
+.env
+.env.*
+.streamlit/secrets.toml
+.DS_Store
